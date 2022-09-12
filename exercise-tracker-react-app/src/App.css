@@ -1,0 +1,161 @@
+.App {
+    text-align: center;
+}
+
+.App-article {
+    justify-content: center;
+}
+
+.App-header {
+    background-color: #7C7287;
+    color: #BAFFDF;
+    border-bottom: 4px solid #000000;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    font-family: Verdana;
+    background-color: #BAFFDF;
+    color: #000000;
+    margin : 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+button {
+    font-family: Verdana;
+    background-color: #7C7287;
+    color: #BAFFDF;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+fieldset {
+    font-family: Verdana;
+    color: #000000;
+    padding: 10px;
+    margin: auto;
+    margin-top: 15px;
+    width: 300px;
+    border: 4px solid #7C7287;
+    font-weight: bold;
+}
+
+footer {
+    color: #000000;
+    font-style: italic;
+    margin: 15px 0px;
+    padding: 5px;
+    border-top: 4px solid #000000;
+    font-size: 1em;
+}
+
+h1 {
+    font-family: Verdana;
+    color: #BAFFDF;
+    margin: 10px;
+}
+
+h2 {
+    font-family: Verdana;
+    color: #7C7287;
+    margin: 10px;
+}
+
+header {
+    background-color: #7C7287;
+    color: #BAFFDF;
+    margin: 0px;
+    padding: 0px;
+}
+
+input {
+    font-family: Verdana;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    border: 1px solid #7C7287;
+    font-style: italic;
+}
+
+label {
+    font-family: Verdana;
+    color: #000000;
+    padding: 5px;
+}
+
+main {
+    font-family: Verdana;
+    background-color: #BAFFDF;
+    color: #000000;
+    font-size: 1em;
+}
+
+nav a {
+    color: #000000;
+    background-color: #BAFFDF;
+    font-family: Verdana;
+    font-size: 1em;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: #7C7287;
+    font-style: italic;
+}
+
+p {
+    margin: 5px;
+}
+
+select {
+    font-family: Verdana;
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    border: 1px solid #7C7287;
+    font-style: italic;
+}
+
+table {
+    border: 4px solid #000000;
+    border-collapse: collapse;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr th {
+    border: 3px solid #000000;
+    color: #000000;
+    padding: 5px;
+    
+}
+
+tr td {
+    border: 2px solid #7C7287;
+    color: #000000;
+    padding: 3px;
+}
+
+.pointer {
+    position: relative;
+    top: 2px
+}
+
+#footerText {
+    margin-top: 15px;
+}
+
+#subtitle {
+    color: #C1FFF2;
+    font-weight: bold; 
+    margin: 0px;
+    margin-bottom: 15px;
+    padding: 6px 8px;
+    border: 5px solid #000000;
+}

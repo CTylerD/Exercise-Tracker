@@ -8,7 +8,7 @@ Track Yo Exercises allows you to create a customized workout regimen! You can ad
 
 ---
 
-![Breakout Image](https://drive.google.com/uc?export=view&id=1m4C_9XYesakKzHoAbI6EMpSGPFU_pqZG)
+![Track Yo Exercises](https://drive.google.com/uc?export=view&id=1m4C_9XYesakKzHoAbI6EMpSGPFU_pqZG)
 
 ---
 

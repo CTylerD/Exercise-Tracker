@@ -8,7 +8,7 @@ Track Yo Exercises allows you to create a customized workout regimen! You can ad
 
 ---
 
-![Track Yo Exercises](https://drive.google.com/uc?export=view&id=1m4C_9XYesakKzHoAbI6EMpSGPFU_pqZG)
+<img src="https://drive.google.com/uc?export=view&id=1m4C_9XYesakKzHoAbI6EMpSGPFU_pqZG"  width="516" height="323">
 
 ---
 

@@ -13,7 +13,7 @@ Track Yo Exercises allows you to create a customized workout regimen! You can ad
 ---
 
 ### Stack:
-The API was written in Node, Express, and React, using a Mongoose database
+Track Yo Exercises! was written in Node, Express, and React, using a MongoDB database
 
 ## Getting Started
 
